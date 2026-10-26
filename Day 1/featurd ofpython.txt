@@ -1,0 +1,23 @@
+Features of Python
+1. Simple and Easy to Learn: Python has simple, readable syntax that is easy for beginners to understand.
+2. High-Level Language: Python allows programmers to write code without handling low-level system details.
+3. Interpreted Language: Python code is executed by an interpreter, making development and testing easier.
+4. Dynamically Typed: You do not need to declare a variable's data type explicitly.
+5. Object-Oriented: Python supports classes, objects, inheritance, polymorphism, and encapsulation.
+6. Platform Independent: Python programs can run on Windows, Linux, and macOS with suitable Python installations.
+7. Free and Open Source: Python is freely available, and its source code can be accessed and modified.
+8. Large Standard Library: Python provides built-in modules for file handling, mathematics, networking, and more.
+9. Supports Multiple Programming Paradigms: Python supports procedural, object-oriented, and functional programming.
+10. Automatic Memory Management and garbage collection: Python automatically manages memory and reclaims many unused objects through garbage collection.
+11. Extensible: Python can work with code written in languages such as C and C++.
+12. Embeddable: Python can be embedded into applications written in other programming languages.
+13. Portable: Python programs can often be moved between different operating systems with minimal changes.
+14. Interactive Mode: Python provides an interactive shell where you can execute code one statement at a time.
+15. Rich Libraries and Frameworks: Python has libraries and frameworks such as NumPy, Pandas, Django, Flask, and TensorFlow.
+16. Exception Handling: Python provides try, except, else, and finally to handle runtime errors.
+17. Versatile: python can be used for web development ,game development, AI, ML and data analysis.
+18. Modular Programming: Python allows code to be organized into modules and packages for reuse and maintenance.
+19. Database Connectivity: Python can connect to databases such as MySQL, PostgreSQL, and SQLite using suitable libraries.
+20. Wide Range of Applications: Python is used in web development, automation, data science, artificial intelligence, machine learning, and scripting.
+
+
