@@ -1,0 +1,18 @@
+HOW TO TAKE INPUT
+1)string= input()
+2)integer= int(input())
+3) float= float(input())
+
+4)list of string=input().split()
+5)list of int= list(map(int,input().split()))
+6)list of float=list(map(float,input().split()))
+
+7)tuple of string=tuple(input().split())
+8)tuple of int= tuple(map(int,input().split()))
+9)tuple of float=tuple(map(float,input().split()))
+
+10)set of string=set(input().split())
+11)set of int= set(map(int,input().split()))
+12)set of float=set(map(float,input().split()))
+
+13)eval function-we take the input in correct sytax way 
