@@ -1,0 +1,81 @@
+STRING OPERATIONS
+
+1)concatenation: we use + symbol to combine the two strings
+EXAMPLE
+s='python'
+t='programming'
+s
+'python'
+t
+'programming'
+s+t
+'pythonprogramming'
+-----------------------
+2)Repetition: to print a string multiple times. we use the symbol "*" for repetition
+EXAMPLE
+t*4
+'programmingprogrammingprogrammingprogramming'
+'*'*7
+'*******'
+'0'*20
+'00000000000000000000'
+------------------------
+3)Indexing: accessing a specific character. we have +ve and -ve indexing
++ve: starts from 0
+-ve: starts from 1 and from end of a string
+EXAMPLE
+s='python java flask mysql fastapi'
+s[1]
+'y'
+s[5]
+'n'
+s[-1]
+'i'
+s[-7]
+'f'
+s[9]
+'v'
+s[-10]
+'q'
+s[12]
+'f'
+-----------------------
+4)Slicing: If we want any part of a string instead of a letter we use slicing
+SYNTAX:s[start: end: step]
+example
+s='python java flask mysql fastapi'
+s[0:6:1]
+'python'
+s[7:11:1]
+'java'
+s[:6]
+'python'
+s[7:11]
+'java'
+s[12:17]
+'flask'
+s[18:23]
+'mysql'
+s[24:]
+'fastapi'
+s[::-1]
+'ipatsaf lqsym ksalf avaj nohtyp'
+s[-5:-1]
+'stap'
+s[::2]
+'pto aafakmslfsai'
+s[-15:-20:-1]
+'ksalf'
+-------------------------------
+5)Membership: to check whether an element is present in string or not
+EXAMPLE
+s
+'python java flask mysql fastapi'
+'java'in s
+True
+'python' in s
+True
+'c++' not in s
+True
+'flask' not in s
+False

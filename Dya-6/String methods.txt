@@ -1,0 +1,16 @@
+STRING METHODS
+1)length
+2)ord and chr
+3)sorted
+4)upper and lower converstion
+s.upper()
+s.lower()
+s.swapcase()
+s.title: all words 1st letter will be capitalised
+s.capitalised: 1st word 1st letter will be capitalised
+s.casefold: convert to lowercase
+s.center()
+s.ljust()
+r.rjust()
+.zfill()
+s.strip()
